@@ -28,14 +28,14 @@
 
     </style>
 
-    <style name="Theme.Bacon.Detail">
+    <!--<style name="Theme.Bacon.Detail">-->
 
 
-        <item name="colorPrimary">@color/theme_primary</item>
-        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
-        <item name="android:colorAccent">@color/theme_accent</item>
+        <!--<item name="colorPrimary">@color/theme_primary</item>-->
+        <!--<item name="colorPrimaryDark">@color/theme_primary_dark</item>-->
+        <!--<item name="android:colorAccent">@color/theme_accent</item>-->
 
-    </style>
+    <!--</style>-->
 
 
 </resources>

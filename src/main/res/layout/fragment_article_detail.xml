@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    style="@style/Theme.Bacon.Detail">
+    >
 
     <com.example.xyzreader.ui.ObservableScrollView
         android:id="@+id/scrollview"
@@ -108,7 +108,8 @@
         android:layout_height="56dp"
         android:src="@drawable/ic_share"
         android:contentDescription="@string/action_share"
-        android:background="@color/theme_accent">
+        android:background="@color/theme_accent"
+        app:backgroundTint="@color/theme_accent">
 
     </android.support.design.widget.FloatingActionButton>
 
